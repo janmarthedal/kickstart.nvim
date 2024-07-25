@@ -1,0 +1,4 @@
+*.lua
+!init.lua
+!theme.lua
+
